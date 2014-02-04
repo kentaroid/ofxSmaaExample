@@ -15,9 +15,9 @@ vec2 texSize = vec2(textureSize(uInpTex, 0));
 #define SMAA_PRESET_ULTRA 1
 #include "SMAA.hlsl"
 
-out vec2 texcoord; 
-out vec2 pixcoord; 
-out vec4 offset[3];
+noperspective out vec2 texcoord; 
+noperspective out vec2 pixcoord; 
+noperspective out vec4 offset[3];
 
 layout(location=0) in vec3 position;
 
