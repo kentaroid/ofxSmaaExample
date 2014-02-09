@@ -162,7 +162,6 @@ void testApp::loadShaders(){
 	puts("loading shaders...");
 	loadShader(shaderFxaa_,"shaders//common/basicPlate.vert.glsl", "shaders/AA/fxaa.fs.glsl");
 	loadShader(shaderSmaa_,"shaders/AA/smaa.vert.glsl", "shaders/AA/smaa.frag.glsl");
-	
 }
 
 void testApp::doAA(){
@@ -195,6 +194,7 @@ void testApp::doAA(){
 		shaderSmaa_.setUniformTexture("uInpTex2",fboSmaaWk_,1);
 		ssObj.draw();
 		fboAA_.end();
+		
 		shaderSmaa_.end();
 	}else if(aaType==2){
 		fboAA_.begin(false);

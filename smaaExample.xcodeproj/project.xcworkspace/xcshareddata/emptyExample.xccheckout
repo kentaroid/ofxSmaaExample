@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0EF705DB-2C5B-4A11-99E2-0D6FAD630CFA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>emptyExample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0C17B529-8171-4FEA-8303-F46980EAA36A</key>
+		<string>https://github.com/kentaroid/ofxSmaaExample.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>emptyExample.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0C17B529-8171-4FEA-8303-F46980EAA36A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/kentaroid/ofxSmaaExample.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0C17B529-8171-4FEA-8303-F46980EAA36A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0C17B529-8171-4FEA-8303-F46980EAA36A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxSmaaExample</string>
+		</dict>
+	</array>
+</dict>
+</plist>
