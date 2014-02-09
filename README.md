@@ -1,8 +1,8 @@
 ofxSmaaExample
 ==============
 
-SMAA and FXAA example projects for openFrameworks.
+SMAA and FXAA example projects for openFrameworks.(supports GLSL version 4.1 later.)
 
-of0.8.0 and xcode and vs2012 project.
+Openframeworks 0.8.0 and xcode and vs2012 project.
 
-need the gpu that support opengl(GLSL) 4.1.
+![Sample](http://kentaroid.com/wp-content/uploads/2014/02/383b9583e09f61e6f16d1ca3c45790dd.png)
